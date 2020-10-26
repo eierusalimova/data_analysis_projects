@@ -22,7 +22,7 @@ __________
 - Создан дашборд в Tableau Public и презентация отчета в MS PowerPoint
 
 
-### Стек
+### Инструменты
 
 `SQL` `SQLAlchemy` `Tableau Public` `MS PowerPoint` `Pandas` `Python`
 ___
