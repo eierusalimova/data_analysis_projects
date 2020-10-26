@@ -21,7 +21,7 @@ __________
 ___
 
 ### Инструменты
-`python` `pandas` `matplotlib` `numpy` `scipy` `проверка статистических гипотез` `фреймворки ICE  RICE`
+`python` `pandas` `matplotlib` `numpy` `scipy` 
 ___
 ### Статус проекта
 
