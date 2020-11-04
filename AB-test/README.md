@@ -21,7 +21,7 @@ __________
 ___
 
 ### Инструменты
-`python` `pandas` `matplotlib` `numpy` `scipy` 
+`python` `pandas` `matplotlib` `numpy` `scipy` `A/B-тестирование` `фреймворк ICE` `фреймворк RICE`
 ___
 ### Статус проекта
 
