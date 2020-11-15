@@ -1,8 +1,7 @@
 # Создание дашборда для Яндекс.Дзен
 
 
-**!Внимание! <br>
-Ссылка на дашборд в Tableau Public здесь:**
+**Ссылка на дашборд в Tableau Public здесь:**
 
 **[https://public.tableau.com/profile/elena1338#!/vizhome/__16022660502350/sheet4?publish=yes](https://public.tableau.com/profile/elena1338#!/vizhome/__16022660502350/sheet4?publish=yes)**
 
